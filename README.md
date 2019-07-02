@@ -8,3 +8,7 @@
 # udemy-beginners
 
 [Kubernetes for the Absolute Beginners - Hands-on ](https://www.udemy.com/course/learn-kubernetes/)
+
+# tutorial
+
+(wordpress)[https://cloud.google.com/kubernetes-engine/docs/tutorials/persistent-disk?hl=ja]
