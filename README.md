@@ -11,4 +11,4 @@
 
 # tutorial
 
-(wordpress)[https://cloud.google.com/kubernetes-engine/docs/tutorials/persistent-disk?hl=ja]
+[wordpress](https://cloud.google.com/kubernetes-engine/docs/tutorials/persistent-disk?hl=ja)
